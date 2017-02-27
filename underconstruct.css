@@ -1,0 +1,9 @@
+body {
+	background-image: url(imgs/bg.png);
+}
+
+.mainInfo {
+	text-align: center;
+	padding-top: 20%;
+	height: 500px;
+}
