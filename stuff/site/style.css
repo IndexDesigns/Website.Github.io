@@ -1,0 +1,46 @@
+body {
+	background-color: lightgrey;
+}
+
+a {
+	color: darkorange;
+	text-decoration: none;
+}
+
+.container {
+	background-color: #FFF;
+	width: 95%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header {
+	width: 100%;
+	background-color: lightblue;
+	height: auto;
+	text-align: center;
+	line-height: 25px;
+}
+
+.recWork {
+	width: 80%;
+	height: auto;
+	text-align: center;
+}
+
+.footer {
+	background-color: lightblue;
+	width: 100%;
+	height: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+	border-top: 25px;
+}
+
+.nav {
+	background-color: lightblue;
+	width: 10%;
+	height: auto;
+}
